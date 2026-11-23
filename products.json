@@ -1,0 +1,102 @@
+[
+  {
+    "id": "spray-fresh-30",
+    "name": "Body Mist Fresh เล็ก 30ml",
+    "mood": "fresh",
+    "size": "30ml",
+    "price": 89,
+    "type": "spray",
+    "image": "images/fresh.svg",
+    "description": "สดชื่น โปร่งสะอาด ขนาดทดลองพกพาสะดวก"
+  },
+  {
+    "id": "spray-fresh-100",
+    "name": "Body Mist Fresh ใหญ่ 100ml",
+    "mood": "fresh",
+    "size": "100ml",
+    "price": 199,
+    "type": "spray",
+    "image": "images/fresh.svg",
+    "description": "สดชื่น โปร่งสะอาด ใช้ได้ทุกวัน"
+  },
+  {
+    "id": "spray-sweet-30",
+    "name": "Body Mist Sweet เล็ก 30ml",
+    "mood": "sweet",
+    "size": "30ml",
+    "price": 89,
+    "type": "spray",
+    "image": "images/sweet.svg",
+    "description": "หวานละมุน อ่อนโยน ขนาดทดลองพกพาสะดวก"
+  },
+  {
+    "id": "spray-sweet-100",
+    "name": "Body Mist Sweet ใหญ่ 100ml",
+    "mood": "sweet",
+    "size": "100ml",
+    "price": 199,
+    "type": "spray",
+    "image": "images/sweet.svg",
+    "description": "หวานละมุน อบอุ่น ใช้ได้ทุกวัน"
+  },
+  {
+    "id": "spray-confident-30",
+    "name": "Body Mist Confident เล็ก 30ml",
+    "mood": "confident",
+    "size": "30ml",
+    "price": 89,
+    "type": "spray",
+    "image": "images/confident.svg",
+    "description": "สุขุม สะอาด ดูดี ขนาดทดลองพกพาสะดวก"
+  },
+  {
+    "id": "spray-confident-100",
+    "name": "Body Mist Confident ใหญ่ 100ml",
+    "mood": "confident",
+    "size": "100ml",
+    "price": 199,
+    "type": "spray",
+    "image": "images/confident.svg",
+    "description": "สุขุม สะอาด ดูดี ใช้ได้ทุกวัน"
+  },
+  {
+    "id": "spray-romance-30",
+    "name": "Body Mist Romance เล็ก 30ml",
+    "mood": "romance",
+    "size": "30ml",
+    "price": 89,
+    "type": "spray",
+    "image": "images/romance.svg",
+    "description": "อบอุ่น น่าหลงใหล ขนาดทดลองพกพาสะดวก"
+  },
+  {
+    "id": "spray-romance-100",
+    "name": "Body Mist Romance ใหญ่ 100ml",
+    "mood": "romance",
+    "size": "100ml",
+    "price": 199,
+    "type": "spray",
+    "image": "images/romance.svg",
+    "description": "อบอุ่น น่าหลงใหล ใช้ได้ทุกวัน"
+  },
+  {
+    "id": "rollon-fresh",
+    "name": "Roll-on Fresh",
+    "mood": "fresh",
+    "size": "มาตรฐาน",
+    "price": 149,
+    "type": "rollon",
+    "image": "images/fresh.svg",
+    "description": "โรลออนกลิ่นสดชื่น สะอาด ใช้ง่าย"
+  },
+  {
+    "id": "rollon-sweet",
+    "name": "Roll-on Sweet",
+    "mood": "sweet",
+    "size": "มาตรฐาน",
+    "price": 149,
+    "type": "rollon",
+    "image": "images/sweet.svg",
+    "description": "โรลออนกลิ่นหวานละมุน อบอุ่น"
+  }
+]
