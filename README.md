@@ -1,2 +1,2 @@
-# body-scent-website
-Body Scent Website Project
+MOON HAIR CARE
+Shampoo Online Store Project
